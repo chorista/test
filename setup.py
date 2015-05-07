@@ -5,7 +5,7 @@
 Setup script for fbchat
 """
 
-
+print ("Hello, world! YAHO!")
 import os
 try:
     from setuptools import setup
